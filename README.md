@@ -1,5 +1,5 @@
 ```
-cd restart-app && npm i && pear stage dev && cd ..
+npm i && cd restart-app && npm i && pear stage dev && cd ..
 ```
 
 then replace the stageLink in ./index.js line 11
